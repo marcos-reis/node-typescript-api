@@ -36,11 +36,6 @@
         "exclude": [
             "./node_modules/*",
             "dist"
-        ],
-        "files": [
-            "./test/globals.d.ts",
-            "./test/globals.global.d.ts"
-          ]
-        
+        ]
     
 }

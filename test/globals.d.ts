@@ -1,6 +1,5 @@
-declare namespace NodeJS{
-  export interface Global{
-        testRequest: import('supertest').SuperTest<import('supertest').Test>;
-    }    
+declare namespace NodeJS {
+  export interface Global {
+    testRequest: import('supertest').SuperTest<import('supertest').Test>;
+  }
 }
-

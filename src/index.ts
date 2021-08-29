@@ -1,1 +1,1 @@
-console.log("compiled succes")
+console.log('compiled succes');
